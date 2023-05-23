@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 528700e6286be4446be777f0df81ecfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - heartManager: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - jumpClip: {instanceID: 0}
+  - deathClip: {fileID: 8300000, guid: 9fcc140ae7b38fa4696d969f72d8b58e, type: 3}
+  - submarineBomb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
